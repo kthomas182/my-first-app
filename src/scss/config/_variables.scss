@@ -1,0 +1,62 @@
+// 1. Typography
+// ==========================================================================
+
+$font-base-size: 16px;
+$font-light: 'ProximaNova-Light', sans-serif;
+$font-regular: 'ProximaNova-Regular', sans-serif;
+$font-medium: 'ProximaNova-Medium', sans-serif;
+$font-semibold: 'ProximaNova-Semibold', sans-serif;
+$font-bold: 'ProximaNova-Bold', sans-serif;
+$font-black: 'ProximaNova-Black', sans-serif;
+
+
+
+
+// 2. Colors
+// ==========================================================================
+
+$color-white: #fff;
+$color-off-white: #fafafa;
+$color-black: #000;
+$color-alabaster: #f7f7f7;
+$color-gallery: #ececec;
+
+$color-lighter-grey: #ededed;
+$color-light-grey: #eaeaea;
+$color-grey: #9b9b9b;
+$color-medium-grey: #dbdada;
+$color-alto: #d8d8d8;
+$color-porcelain: #eff4f4;
+$color-silver-chalice: #b2b2b2;
+
+
+$color-light-blue: #3db5e6;
+$color-off-blue: #1188ca;
+$color-blue: #0082ca;
+$color-dark-blue: #085fa2;
+$color-deep-blue: #17212f;
+
+$color-christine: #f46a0e;
+$color-rich-gold: #a04407;
+$color-dark-orange: #d0500b;
+
+$color-purple: #86339a;
+$color-red: #e62e53;
+$color-dark-red: #b11031;
+
+$color-green: #23b882;
+$color-mountain-meadow: #23B882;
+
+$color-light-yellow: #FFF2C7;
+$color-yellow: #EBB400;
+
+// 4. Grid
+// ==========================================================================
+
+$num-cols: 12 !default;
+$container-gutter: 20px !default;
+$container-gutter-medium: 32px !default;
+$container-gutter-large: 30px !default;
+$gutter-width: 16px !default;
+$gutter-width-medium: 16px !default;
+$gutter-width-large: 24px !default;
